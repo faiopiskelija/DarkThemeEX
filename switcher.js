@@ -12,7 +12,7 @@ chrome.storage.local.get('enabled', function(result) {
         const _BODY = document.querySelector('body');
         _BODY.style.visibility =  'hidden';
 
-        const elems = document.querySelectorAll('div, p, span, h1, h2, h3, h4, h5, h6, a, pre, label, header, aside, section, dialog');
+        const elems = document.querySelectorAll('div, p, span, h1, h2, h3, h4, h5, h6, a, pre, label, header, aside, section, dialog, form');
         elems.forEach(div => {
             div.classList.add('my-dark-theme')
         });
