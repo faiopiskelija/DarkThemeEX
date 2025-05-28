@@ -1,9 +1,11 @@
 # DarkThemeEx
 🌙 Dark Theme Extension
 
-![image](https://github.com/user-attachments/assets/4c965267-7f65-4c28-91de-4bb0ba95f442)
 
-![image](https://github.com/user-attachments/assets/6e18bbb3-6e11-4c92-93fd-797e8bc664ec)
+![1](https://github.com/user-attachments/assets/20f32123-63bc-41ee-98a1-c560c049199f)
+![2](https://github.com/user-attachments/assets/fbeabd96-51be-4d02-8fe5-45281c09ac7f)
+
+
 
 A simple and lightweight Chrome extension that enables a dark theme on any website. Designed especially to work well with dynamic sites like GitHub.
 
@@ -38,6 +40,7 @@ A simple and lightweight Chrome extension that enables a dark theme on any websi
 - May not work perfectly on all websites.
 - This is a simple example — feel free to fork and customize it!
 
-![image](https://github.com/user-attachments/assets/01d7b239-8725-4d1b-9eaa-67d29df8588f)
-![image](https://github.com/user-attachments/assets/c754440a-0d5d-4a06-b27d-a7a2c14cd149)
+![3](https://github.com/user-attachments/assets/d5dcdec5-2a6a-4db2-91fa-6904a8204cc0)
+![4](https://github.com/user-attachments/assets/5e2fbcc6-1d61-4048-b858-76feee2b5a56)
+
 
