@@ -1,0 +1,27 @@
+{
+    "content_scripts": [
+  {
+    "matches": ["*://*/*"],
+    "js": ["switcher.js"],
+    "css":["main.css"]
+  }
+],
+
+  "manifest_version": 3,
+  "name": "Dark Theme Extension",
+  "version": "1.0",
+  "icons": {
+  "16": "icon1.png",
+  "32": "icon1.png",
+  "48": "icon1.png",
+  "128": "icon1.png"
+}, 
+  "action": {
+    "default_icon": "icon1.png",
+    "default_title": "Enable Dark Theme"
+  },
+    "permissions": ["scripting", "activeTab", "storage", "webNavigation"],
+    "background": {
+    "service_worker": "background.js"
+  }
+}

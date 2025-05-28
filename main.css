@@ -1,0 +1,42 @@
+body {
+  transition: background-color 0.3s ease, color 0.3s ease !important;
+}
+
+.my-dark-theme {
+  background-color: #24242c !important;
+  color: #e0e0e0 !important;
+}
+body.my-dark-theme a {
+    color: rgb(180, 194, 250) !important;
+}
+body.my-dark-theme dialog {
+  background-color: rgb(36, 36, 44) !important;
+  color: #e0e0e0 !important;
+}
+
+body.my-dark-theme section {
+  background-color: rgb(36, 36, 44) !important;
+  color: #e0e0e0 !important;
+}
+
+body.my-dark-theme p,
+body.my-dark-theme div,
+body.my-dark-theme span,
+body.my-dark-theme h1,
+body.my-dark-theme h2,
+body.my-dark-theme h3,
+body.my-dark-theme h4,
+body.my-dark-theme h5,
+body.my-dark-theme h6,
+body.my-dark-theme pre,
+body.my-dark-theme label,
+body.my-dark-theme header,
+body.my-dark-theme code,   
+body.my-dark-theme aside {
+  background-color: transparent !important;
+  color: #e0e0e0 !important;
+}
+
+body.my-dark-theme pre {
+  background-color:rgb(22, 22, 26) !important;
+}
